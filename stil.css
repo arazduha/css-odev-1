@@ -1,0 +1,206 @@
+body {
+    background-image:url("img/cc.png");
+	background-repeat: no-repeat;
+   }
+#ana{
+    margin:auto;
+    width: 1100px;
+    height: 950px;
+}
+
+#menu{
+    width: 800px;
+    height: auto;
+    margin-left: 180px;
+    margin-right: 150px;
+    margin-top: 15px;
+    position: absolute;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: rgba(163, 163, 163, 0.626); 
+    
+       
+}
+#anas{
+    width: 200px;
+    height: 100px;
+    margin-left: 0px;
+    margin-top: 50px;
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    
+    }
+#cars{
+    width: 200px;
+    height: 100px;
+    margin-left: 140px;
+    margin-top: 50px;
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+}
+
+#about{
+    width: 200px;
+    height: 100px;
+    margin-left: 240px;
+    margin-top: 50px;
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+}
+
+#contact{
+    width: 200px;
+    height: 100px;
+    margin-left: 400px;
+    margin-top: 50px;
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+}
+#alfa{
+    width: 300px;
+    height: 200px;
+    position:absolute;
+    margin-left: 20px;
+    margin-top: 50px;
+    
+}
+
+#amg{
+    width: 300px;
+    height: 200px;
+    margin-top: 50px;
+    margin-left: 380px;
+    position:absolute;
+    
+}
+
+#aston{
+    width: 300px;
+    height: 200px;
+    margin-top: 50px;
+    margin-left: 750px;
+    position:absolute;
+}
+
+#audi{
+    width: 300px;
+    height: 200px;
+    margin-top: 300px;
+    margin-left: 20px;
+    position:absolute;
+}
+
+#bentley{
+    width: 300px;
+    height: 200px;
+    margin-top: 300px;
+    margin-left: 380px;
+    position:absolute;
+}
+
+#bmw{
+    width: 300px;
+    height: 200px;
+    margin-top: 300px;
+    margin-left: 750px;
+    position:absolute;
+}
+
+#ferrari{
+    width: 300px;
+    height: 200px;
+    margin-top: 550px;
+    margin-left: 20px;
+    position:absolute;
+}
+
+#rolls{
+    width: 300px;
+    height: 200px;
+    margin-top: 550px;
+    margin-left: 380px;
+    position:absolute;
+}
+
+#bugatti{
+    width: 300px;
+    height: 200px;
+    margin-top: 550px;
+    margin-left: 750px;
+    position:absolute;
+}
+
+.gradient {
+    background: rgba(82, 83, 84, 0.748);
+    background: linear-gradient(90deg, rgba(110, 110, 110, 0.259) 0%, rgba(124, 124, 124, 0.396) 35%, rgba(111, 112, 113, 0.242) 100%);
+   }
+
+.btn {
+    padding: 10px 20px;
+    border-radius: 15px;
+    color: rgba(0, 0, 0, 0.667);
+    text-decoration: none;
+    box-shadow: 2px 2px 15px 7px rgba(56, 105, 102, 0.252);
+}
+      
+a.ex2:hover, a.ex2:active {
+    font-size: 110%;
+}
+
+.alt{
+    width: 1200px;
+    height: 20px;
+    margin-bottom: 0px;
+    margin-top: 100px;
+    background-color: rgba(249, 244, 243, 0);
+    position:relative;
+    margin-left: 150px;
+    margin-right: 250px;
+    font-size: medium;
+    text-align: center;
+    font-size: medium;
+    background-color: rgba(240, 248, 255, 0.199);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgba(251, 255, 246, 0.933) ;
+}
+#marka{
+    text-align: center;
+    padding-top: 100px ;
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgba(251, 255, 246, 0.933) ;
+}
+
+.cars1{
+    width: 500px;
+    height: 272px;
+    position:absolute;
+    margin-left: 20px;
+    margin-top: 50px;
+
+}
+
+.cars2{
+    width: 500px;
+    height: 285px;
+    position:absolute;
+    margin-left: 545px;
+    margin-top: 50px;
+
+}
+.cars3{
+    width: 500px;
+    height: 258px;
+    position:absolute;
+    margin-left: 20px;
+    margin-top: 370px;
+
+}
+.cars4{
+    width: 500px;
+    height: 283px;
+    position:absolute;
+    margin-left: 545px;
+    margin-top: 370px;
+
+}
